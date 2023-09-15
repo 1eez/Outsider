@@ -1,0 +1,19 @@
+languageCode = "en"
+languageName = "English"
+weight = 1
+title = "Outsider"
+
+[params]
+  displayName = "English"
+  isoCode = "en"
+  rtl = false
+  dateFormat = "2 January 2006"
+  logo = "img/outsider_logo_3.png"
+  description = "A powerful, lightweight theme for Hugo built with Tailwind CSS."
+  # copyright = "Copy, _right?_ :thinking_face:"
+
+[author]
+  name = "Outsider"
+  image = "img/outsider_logo_0.png"
+  headline = "AI-assisted generated short story, the entry for the 6th edition of 'Winning in TiMi AI Storytelling' competition."
+  bio = "AI-assisted generated short story, the entry for the 6th edition of 'Winning in TiMi AI Storytelling' competition."

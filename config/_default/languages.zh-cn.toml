@@ -1,0 +1,18 @@
+languageCode = "zh-cn"
+languageName = "简体中文"
+weight = 1
+title = "异乡客"
+
+[params]
+  displayName = "简体中文"
+  isoCode = "zh_CN"
+  rtl = false
+  dateFormat = "2 January 2006"
+  logo = "img/outsider_logo_3.png"
+  description = "AI辅助生成的短篇小说，《第六届 赢在天美AI讲故事》参赛作品。"
+
+[author]
+  name = "《异乡客》"
+  image = "img/outsider_logo_0.png"
+  headline = "Lord 使用AI辅助撰写的短篇小说，第六届“赢在天美 × AI讲故事”参赛作品"
+  bio = "AI-assisted generated short story, the entry for the 6th edition of 'Winning in TiMi AI Storytelling' competition."
